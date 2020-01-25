@@ -1,0 +1,158 @@
+{
+    "data": {
+        "stops": [
+            {
+                "gtfsId": "OULU:120657",
+                "name": "Satamatie P",
+                "stoptimesWithoutPatterns": [
+                    {
+                        "scheduledDeparture": 75435,
+                        "realtimeDeparture": 75770,
+                        "departureDelay": 335,
+                        "realtime": true,
+                        "trip": {
+                            "pattern": {
+                                "route": {
+                                    "shortName": "20B",
+                                    "longName": "Martinniemi - OYS"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "scheduledDeparture": 76352,
+                        "realtimeDeparture": 76310,
+                        "departureDelay": -42,
+                        "realtime": true,
+                        "trip": {
+                            "pattern": {
+                                "route": {
+                                    "shortName": "4A",
+                                    "longName": "Herukka - Heikkilänkangas"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "scheduledDeparture": 77450,
+                        "realtimeDeparture": 77450,
+                        "departureDelay": 0,
+                        "realtime": false,
+                        "trip": {
+                            "pattern": {
+                                "route": {
+                                    "shortName": "21",
+                                    "longName": "Kellon Kiviniemi - Oulunsuu"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "scheduledDeparture": 78152,
+                        "realtimeDeparture": 78152,
+                        "departureDelay": 0,
+                        "realtime": false,
+                        "trip": {
+                            "pattern": {
+                                "route": {
+                                    "shortName": "4",
+                                    "longName": "Herukka - Iinatti"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "scheduledDeparture": 79035,
+                        "realtimeDeparture": 79035,
+                        "departureDelay": 0,
+                        "realtime": false,
+                        "trip": {
+                            "pattern": {
+                                "route": {
+                                    "shortName": "20B",
+                                    "longName": "Martinniemi - OYS"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "gtfsId": "OULU:121505",
+                "name": "Lämpövoimala E",
+                "stoptimesWithoutPatterns": [
+                    {
+                        "scheduledDeparture": 76429,
+                        "realtimeDeparture": 76486,
+                        "departureDelay": 57,
+                        "realtime": true,
+                        "trip": {
+                            "pattern": {
+                                "route": {
+                                    "shortName": "20B",
+                                    "longName": "Martinniemi - OYS"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "scheduledDeparture": 77252,
+                        "realtimeDeparture": 77252,
+                        "departureDelay": 0,
+                        "realtime": false,
+                        "trip": {
+                            "pattern": {
+                                "route": {
+                                    "shortName": "4",
+                                    "longName": "Herukka - Iinatti"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "scheduledDeparture": 77719,
+                        "realtimeDeparture": 77719,
+                        "departureDelay": 0,
+                        "realtime": false,
+                        "trip": {
+                            "pattern": {
+                                "route": {
+                                    "shortName": "21",
+                                    "longName": "Kellon Kiviniemi - Oulunsuu"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "scheduledDeparture": 79052,
+                        "realtimeDeparture": 79052,
+                        "departureDelay": 0,
+                        "realtime": false,
+                        "trip": {
+                            "pattern": {
+                                "route": {
+                                    "shortName": "4A",
+                                    "longName": "Herukka - Heikkilänkangas"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "scheduledDeparture": 80029,
+                        "realtimeDeparture": 80029,
+                        "departureDelay": 0,
+                        "realtime": false,
+                        "trip": {
+                            "pattern": {
+                                "route": {
+                                    "shortName": "20B",
+                                    "longName": "Martinniemi - OYS"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
